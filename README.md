@@ -1,2 +1,2 @@
 # Alive7.github.io
- A simple webpage using github.io. Used for basic html tinkering
+A website documenting my attempt to build a website.
